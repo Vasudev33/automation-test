@@ -11,4 +11,6 @@ Web and API automation test projects
     - src/test/java/scripts/api/APITests.java - contains test methods - TestValidStatusCode , TestResponseForInvalidURI and TestResponseForInvalidURI
 
 TestNG suite file path: ./test-suites/testng.xml
+
+
 TestNG report path with all test cases passed: ./test-output/emailable-report.html
