@@ -8,7 +8,7 @@ Web and API automation test projects
     - src/test/java/scripts/web/VerifyBooking.java - contains a test method to cover one positive scenario of flight booking
     
 2. API Application Test:        
-    - src/test/java/scripts/api/APITests.java - contains test methods - TestValidStatusCode , TestResponseForInvalidURI and TestResponseForInvalidURI
+    - src/test/java/scripts/api/APITests.java - contains test methods - TestValidStatusCode , TestResponseForInvalidURI and TestMandatoryFieldsInResponse
 
 TestNG suite file path: ./test-suites/testng.xml
 
